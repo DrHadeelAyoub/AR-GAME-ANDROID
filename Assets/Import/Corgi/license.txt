@@ -1,0 +1,8 @@
+Model Information:
+* title:	Corgi
+* source:	https://sketchfab.com/3d-models/corgi-5977570ff1e946e89a21341a6ca682f6
+* author:	RedDeer (https://sketchfab.com/billl90)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
